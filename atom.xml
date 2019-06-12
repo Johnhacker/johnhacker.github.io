@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://guoqiang.club/</id>
-    <title>国强的俱乐部</title>
-    <updated>2019-06-12T05:12:27.585Z</updated>
+    <title>国强俱乐部</title>
+    <updated>2019-06-12T05:15:32.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://guoqiang.club/"/>
     <link rel="self" href="http://guoqiang.club//atom.xml"/>
     <subtitle>美好源于热爱</subtitle>
     <logo>http://guoqiang.club//images/avatar.png</logo>
     <icon>http://guoqiang.club//favicon.ico</icon>
-    <rights>All rights reserved 2019, 国强的俱乐部</rights>
+    <rights>All rights reserved 2019, 国强俱乐部</rights>
     <entry>
         <title type="html"><![CDATA[国强的第一篇文章]]></title>
         <id>http://guoqiang.club//post/hello-gridea</id>
