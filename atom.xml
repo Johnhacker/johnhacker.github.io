@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://johnhacker.github.io</id>
+    <id>https://guoqiang.club</id>
     <title>国强俱乐部</title>
-    <updated>2019-06-12T05:20:23.887Z</updated>
+    <updated>2019-06-12T05:21:25.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://johnhacker.github.io"/>
-    <link rel="self" href="https://johnhacker.github.io/atom.xml"/>
+    <link rel="alternate" href="https://guoqiang.club"/>
+    <link rel="self" href="https://guoqiang.club/atom.xml"/>
     <subtitle>美好源于热爱</subtitle>
-    <logo>https://johnhacker.github.io/images/avatar.png</logo>
-    <icon>https://johnhacker.github.io/favicon.ico</icon>
+    <logo>https://guoqiang.club/images/avatar.png</logo>
+    <icon>https://guoqiang.club/favicon.ico</icon>
     <rights>All rights reserved 2019, 国强俱乐部</rights>
     <entry>
         <title type="html"><![CDATA[国强的第一篇文章]]></title>
-        <id>https://johnhacker.github.io/post/hello-gridea</id>
-        <link href="https://johnhacker.github.io/post/hello-gridea">
+        <id>https://guoqiang.club/post/hello-gridea</id>
+        <link href="https://guoqiang.club/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
