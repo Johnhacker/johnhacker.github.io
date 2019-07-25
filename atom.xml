@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guoqiang.club</id>
     <title>国强俱乐部</title>
-    <updated>2019-06-12T05:22:06.617Z</updated>
+    <updated>2019-07-25T03:35:29.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guoqiang.club"/>
     <link rel="self" href="https://guoqiang.club/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://guoqiang.club/images/avatar.png</logo>
     <icon>https://guoqiang.club/favicon.ico</icon>
     <rights>All rights reserved 2019, 国强俱乐部</rights>
+    <entry>
+        <title type="html"><![CDATA[The Amazon Way on IoT (My Notes)]]></title>
+        <id>https://guoqiang.club/post/the-amazon-way-on-iot-my-notes</id>
+        <link href="https://guoqiang.club/post/the-amazon-way-on-iot-my-notes">
+        </link>
+        <updated>2019-07-25T03:34:53.000Z</updated>
+        <content type="html"><![CDATA[<p>My write up notes reading John Rossman's book: The Amazon Way on IoT.</p>
+<p>In this book, John Rossman proposed 10 principles to help business leaders and product owners implement successful IoT strategies.</p>
+<p>IoT can be used to:</p>
+<p>Improve customer experiences. 👉 Principle 1, 2
+Improve and streamline operations. 👉 Principle 3, 4, 5
+Develop new business models. 👉 Principle 6, 7, 8
+And build disruptive IoT strategies in your industry. 👉 Principle 9, 10</p>
+<p>Principle 1: Reinvent Customer Experiences with Connected Devices
+Customer obsession is the first principle of Amazon Principles.</p>
+<p>What is the connection between user experience and customer obsession? User experience builds customer obsession/trust. The customer obsession then leads to long-term profits.</p>
+<p>What’s the difference between customer obsession and customer focus? Customer focus means a shiner, more-profitable short-term opportunity, while customer obsession means being willing to do really hard things just to make life easier for its customers.</p>
+<p>A list of innovative features from Amazon:</p>
+<p>Customer Reviews
+It was controversial when it first launched, vendors and brands wanted shoppers to see the positive reviews only, but Jeff and Amazon were sure of themselves that it is the only way to build long-term customer trust.
+Free Everyday Shipping
+1-Click Ordering
+By the time you have entering login, billing, and shipping information fifty to a hundred times, you’re talking about five hundred plus minutes of your life you won’t be getting back.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国强的第一篇文章]]></title>
         <id>https://guoqiang.club/post/hello-gridea</id>
